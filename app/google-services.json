@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753414018351",
+    "project_id": "ventanasmart-66981",
+    "storage_bucket": "ventanasmart-66981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753414018351:android:4f35a12e15f2398cabbdda",
+        "android_client_info": {
+          "package_name": "com.example.ventanasmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtoaergv3DJHT7hrIDE7rc80AKDmynUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
